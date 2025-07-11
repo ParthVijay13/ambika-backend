@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_title_section2_points",
+  "info": {
+    "displayName": "section2Points"
+  },
+  "options": {},
+  "attributes": {
+    "points": {
+      "type": "blocks"
+    }
+  },
+  "config": {}
+}

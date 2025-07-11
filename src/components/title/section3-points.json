@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_title_section3_points",
+  "info": {
+    "displayName": "section3Points"
+  },
+  "options": {},
+  "attributes": {
+    "minutes": {
+      "type": "integer"
+    },
+    "points": {
+      "type": "blocks"
+    }
+  },
+  "config": {}
+}
