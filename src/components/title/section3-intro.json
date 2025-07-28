@@ -10,6 +10,9 @@
     },
     "description": {
       "type": "text"
+    },
+    "iframe": {
+      "type": "text"
     }
   },
   "config": {}

@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_overview_section_highliights_lists",
+  "info": {
+    "displayName": "highliights_list"
+  },
+  "options": {},
+  "attributes": {
+    "distanceMin": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

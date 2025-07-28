@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_overview_section_brochures",
+  "info": {
+    "displayName": "brochure"
+  },
+  "options": {},
+  "attributes": {
+    "property_brochure": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "files"
+      ]
+    }
+  },
+  "config": {}
+}

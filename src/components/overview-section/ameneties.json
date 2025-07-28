@@ -1,0 +1,30 @@
+{
+  "collectionName": "components_overview_section_ameneties",
+  "info": {
+    "displayName": "Ameneties"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "short_text": {
+      "type": "string"
+    },
+    "ameneties_list": {
+      "type": "blocks"
+    },
+    "gallery": {
+      "type": "media",
+      "multiple": true,
+      "allowedTypes": [
+        "images",
+        "files"
+      ]
+    }
+  },
+  "config": {}
+}

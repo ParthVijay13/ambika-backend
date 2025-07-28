@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_overview_section_location_sections",
+  "info": {
+    "displayName": "LocationSection"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "map_embed_url": {
+      "type": "text"
+    },
+    "highlights_title": {
+      "type": "text"
+    },
+    "list": {
+      "type": "component",
+      "component": "overview-section.highliights-list",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,40 @@
+{
+  "kind": "collectionType",
+  "collectionName": "properties",
+  "info": {
+    "singularName": "property",
+    "pluralName": "properties",
+    "displayName": "property"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "overview": {
+      "type": "component",
+      "component": "overview-section.overview-sections",
+      "repeatable": true
+    },
+    "ameneties": {
+      "type": "component",
+      "component": "overview-section.ameneties",
+      "repeatable": true
+    },
+    "location": {
+      "type": "component",
+      "component": "overview-section.location-section",
+      "repeatable": false
+    },
+    "herosection": {
+      "type": "component",
+      "component": "overview-section.hero-section",
+      "repeatable": true
+    },
+    "brochure": {
+      "type": "component",
+      "component": "overview-section.brochure",
+      "repeatable": false
+    }
+  }
+}
